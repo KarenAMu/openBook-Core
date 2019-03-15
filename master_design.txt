@@ -8,7 +8,7 @@ why this is important:
 	textbooks cost a lot! continue increasing costs
 	alternatives are eBooks, PDFS, websites (we can do better!)
 		=> see medium advantage below
-	clases are getting bigger defer some teaching to the book itself
+	classes are getting bigger defer some teaching to the book itself
 	profs can edit as they please - custom books for each course
 	always be updated without charge! git pull does this why can't ebooks?
 
